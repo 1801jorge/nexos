@@ -1,2 +1,2 @@
 # nexos
-print (hola mundo) 
+hola mundo 
